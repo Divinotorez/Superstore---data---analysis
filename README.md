@@ -38,11 +38,16 @@ The objective is to transform raw data into meaningful insights through data pre
 - Data preparation an formationg
 
 ## Project Structure
+## Project Structure
+
 ```text
 Superstore - data - analysis/
 │
 ├── Data/
 │   └── Superstore_Raw.xlsx.xls
+│
+├── screenshots/
+│   └── dashboard.png
 │
 ├── SUPERSTORE Data Analysis.xlsx
 └── README.md
